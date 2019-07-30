@@ -1,7 +1,7 @@
 # SeniorFrontEndDevChallenge
 Code Challenge for Thesis
 
-This is the recreation of the design given into a HTML web page. I matched thr look of it as close as possible.
+This is the recreation of the design given into a HTML web page. I matched the look of it as close as possible.
 
 
 Extra credit:
